@@ -1,4 +1,5 @@
-### Hi there 👋
+### Howdy!
+I'm a developer from Kentucky who specializes in discord bots and Citrix Podio! I will try to make some open source bots in the future, but as of now they are closed source.
 
 <!--
 **HeyItsJustFelix/HeyItsJustFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
