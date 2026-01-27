@@ -1,6 +1,10 @@
 ### Howdy!
 I'm a developer from Kentucky who specializes in Discord bots! Enjoy my [ComfyUI Based Image Generator Bot](https://github.com/HeyItsJustFelix/ComfyDiscordBot)!
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/e55a8653-935b-44c4-a00d-673999283f8b/thumbnail" >
+</p>
+
 <!--
 **HeyItsJustFelix/HeyItsJustFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
